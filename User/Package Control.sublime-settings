@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Dockerfile Syntax Highlighting",
+		"Highlight",
+		"Package Control",
+	],
+}

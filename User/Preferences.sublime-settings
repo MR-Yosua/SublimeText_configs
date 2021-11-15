@@ -1,0 +1,10 @@
+{
+	"font_face":"Cascadia Code",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Agila Neon.sublime-theme",
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+}
